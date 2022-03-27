@@ -14,7 +14,7 @@ description: Club de montaña
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+favicon: assets/images/blog-icon.png
 CNAME: www.apu.org.ar
 
 # Social info
@@ -22,8 +22,9 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: apu # replace by your username
+facebook: APU Club de montaña # replace by your username
+instagram: apuclubdemonte
+mail: apuclubdelmonte@gmail.com
 
 # Disqus
 disqus: False
